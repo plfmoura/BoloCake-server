@@ -1,0 +1,133 @@
+{
+    "bolos": [
+        {
+            "id": 1,
+            "name": "Floresta Negra",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake1.jpg",
+            "descricao": "Bolo de chocolate em camadas com cobertura de chocolate"
+        },
+        {
+            "id": 2,
+            "name": "Quebra Nozes",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake2.jpg",
+            "descricao": "Bolo de nozes, avelã e recheio de creme belga"
+        },
+        {
+            "id": 3,
+            "name": "Explosão de Amora",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cakeamora.jpg",
+            "descricao": "Bolo de amora trufado com chantilly e baunilha"
+        },
+        {
+            "id": 4,
+            "name": "Fiesta",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake4.jfif",
+            "descricao": "Bolo de três camadas com raspas de chocolate e recheio de beijinho"
+        },
+        {
+            "id": 5,
+            "name": "Delícia de Morango",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cakeee5.jpg",
+            "descricao": "Bolo de morango com leite ninho e cobertura açucarada"
+        },
+        {
+            "id": 6,
+            "name": "Amendobolo",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake6.jpg",
+            "descricao": "Bolo de amendoim com recheio de paçoca"
+        },
+        {
+            "id": 7,
+            "name": "Nutellover",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake7.jpeg",
+            "descricao": "Bolo de chocolate recheado de nutella"
+        },
+        {
+            "id": 8,
+            "name": "Red Velvet",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake8.jpg",
+            "descricao": "Bolo de frutas vermelhas com chantilly"
+        },
+        {
+            "id": 9,
+            "name": "Bolo de Cake",
+            "valor": 80,
+            "criativo": "assets/produtos/cakes/cake9.jpg",
+            "descricao": "Bolo com trufas de chocolate, baunilha, trufas e raspas de limão"
+        }
+    ],
+    "sobremesas": [
+        {
+            "id": 1,
+            "name": "Cupcake de Chocolate",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/cupcake2.jpg",
+            "descricao": "Chocolate ao leite"
+        },
+        {
+            "id": 2,
+            "name": "Manjar ao Chocolate",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce2.jpg",
+            "descricao": "Manjar com topo de chocolate"
+        },
+        {
+            "id": 3,
+            "name": "Tartelette de Morango",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/cupcake2.jpg",
+            "descricao": "Pedaços de morango com chantilly"
+        },
+        {
+            "id": 4,
+            "name": "Rosquinha de Chocolate",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce4.jpg",
+            "descricao": "Rosquinhas com calda de chocolate"
+        },
+        {
+            "id": 5,
+            "name": "Mini Cheesecake",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce5.jpg",
+            "descricao": "Cheesecake de coco com morango"
+        },
+        {
+            "id": 6,
+            "name": "Mini Red Velvet",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce6.jpg",
+            "descricao": "Red Velvet em porção individual"
+        },
+        {
+            "id": 7,
+            "name": "Bomba de Creme",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce8.jpg",
+            "descricao": "Deliciosa massa com creme"
+        },
+        {
+            "id": 8,
+            "name": "Big Cookie",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce9.jpg",
+            "descricao": "Cookie com topo de nozes"
+        },
+        {
+            "id": 9,
+            "name": "Tortinha de Limão",
+            "valor": 45,
+            "criativo": "assets/produtos/doces/doce10.jpg",
+            "descricao": "Fatia de torta de limão"
+        }
+    ]
+
+}
