@@ -4,49 +4,49 @@
             "id": 1,
             "name": "Floresta Negra",
             "valor": 80,
-            "criativo": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/6cf1bb7359f2dca08445c83ff58bf3bf.jpg",
+            "criativo": "https://files.fm/thumb_show.php?i=db8nay27c",
             "descricao": "Bolo de chocolate em camadas com cobertura de chocolate"
         },
         {
             "id": 2,
             "name": "Quebra Nozes",
             "valor": 80,
-            "criativo": "assets/produtos/cakes/cake2.jpg",
+            "criativo": "https://files.fm/thumb_show.php?i=cmrhd6puj",
             "descricao": "Bolo de nozes, avelã e recheio de creme belga"
         },
         {
             "id": 3,
             "name": "Explosão de Amora",
-            "valor": 80,
-            "criativo": "assets/produtos/cakes/cakeamora.jpg",
+            "valor": 90,
+            "criativo": "https://files.fm/thumb_show.php?i=y76ff3qkw",
             "descricao": "Bolo de amora trufado com chantilly e baunilha"
         },
         {
             "id": 4,
-            "name": "Fiesta",
-            "valor": 80,
-            "criativo": "assets/produtos/cakes/cake4.jfif",
-            "descricao": "Bolo de três camadas com raspas de chocolate e recheio de beijinho"
+            "name": "Derretimento de Cupuaçu",
+            "valor": 70,
+            "criativo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9B4mvVGccjI53cIuIzvrOzgXxqmS47vzcw&usqp=CAU",
+            "descricao": "Bolo com cobertura de Cupuaçu, sabor chocolate"
         },
         {
             "id": 5,
             "name": "Delícia de Morango",
-            "valor": 80,
-            "criativo": "assets/produtos/cakes/cakeee5.jpg",
+            "valor": 65,
+            "criativo": "https://files.fm/thumb_show.php?i=uf7gx426j",
             "descricao": "Bolo de morango com leite ninho e cobertura açucarada"
         },
         {
             "id": 6,
             "name": "Amendobolo",
-            "valor": 80,
-            "criativo": "assets/produtos/cakes/cake6.jpg",
+            "valor": 60,
+            "criativo": "https://files.fm/thumb_show.php?i=z29rb9jam",
             "descricao": "Bolo de amendoim com recheio de paçoca"
         },
         {
             "id": 7,
             "name": "Nutellover",
-            "valor": 80,
-            "criativo": "assets/produtos/cakes/cake7.jpeg",
+            "valor": 110,
+            "criativo": "https://files.fm/thumb_show.php?i=gubvvuzm6",
             "descricao": "Bolo de chocolate recheado de nutella"
         },
         {
@@ -58,10 +58,24 @@
         },
         {
             "id": 9,
-            "name": "Bolo de Cake",
+            "name": "Trufado Negro",
             "valor": 80,
-            "criativo": "assets/produtos/cakes/cake9.jpg",
+            "criativo": "https://files.fm/thumb_show.php?i=7mmm7yv7b",
             "descricao": "Bolo com trufas de chocolate, baunilha, trufas e raspas de limão"
+        },
+        {
+            "id": 10,
+            "name": "Trufado Branco",
+            "valor": 80,
+            "criativo": "https://files.fm/thumb_show.php?i=b7vv6v8mx",
+            "descricao": "Bolo com sabor de nozes, e raspas de chocolate"
+        },
+        {
+            "id": 11,
+            "name": "Cenoura Ganache",
+            "valor": 80,
+            "criativo": "https://files.fm/thumb_show.php?i=sthbed98b",
+            "descricao": "Bolo de Cenoura, com ganache de chocolate"
         }
     ],
     "sobremesas": [
